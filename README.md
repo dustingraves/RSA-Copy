@@ -5,11 +5,14 @@ Copies your secure pin and generated token to the clipboard
 Add your pin to your apple keychain:
 1. Open "Applications>Utilities>Keychain Access"
 2. Create a new password item
+
 ![alt tag](https://raw.github.com/dustingraves/RSA-Copy/master/NewItem.png)
+
 3. Fill in:
   - Keychain Item Name: "rsatoken"
   - Account Name: <Your local username>
   - Password: <Your RSA PIN>
+
 ![alt tag](https://raw.github.com/dustingraves/RSA-Copy/master/SavePin.png)
 
 ## Install
