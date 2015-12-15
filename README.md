@@ -9,9 +9,9 @@ Add your pin to your apple keychain:
 ![alt tag](https://raw.github.com/dustingraves/RSA-Copy/master/NewItem.png)
 
 3. Fill in:
-  - Keychain Item Name: "rsatoken"
-  - Account Name: <Your local username>
-  - Password: <Your RSA PIN>
+  - Keychain Item Name: `rsatoken`
+  - Account Name: `<Your local username>`
+  - Password: `<Your RSA PIN>`
 
 ![alt tag](https://raw.github.com/dustingraves/RSA-Copy/master/SavePin.png)
 
