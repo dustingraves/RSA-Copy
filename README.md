@@ -22,6 +22,8 @@ Just copy "Copy RSA.app" to your Applications folder
 
 ### Note:
 
+There is a known issue with an error on first run. Just close and run again.
+
 If you need to modify timings or would like to change how this script operates you can open "Copy RSA.scpt" with Apple Script Editor and Export as an app.
 
 <div>Icons made by <a href="http://www.freepik.com" title="Freepik">Freepik</a> from <a href="http://www.flaticon.com" title="Flaticon">www.flaticon.com</a>             is licensed by <a href="http://creativecommons.org/licenses/by/3.0/" title="Creative Commons BY 3.0">CC BY 3.0</a></div>
