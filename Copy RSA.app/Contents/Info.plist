@@ -11,11 +11,11 @@
 	<key>CFBundleIconFile</key>
 	<string>applet</string>
 	<key>CFBundleIdentifier</key>
-	<string>com.apple.ScriptEditor.id.Copy-RSA2</string>
+	<string>com.apple.ScriptEditor.id.Copy-RSA</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>
-	<string>Copy RSA2</string>
+	<string>Copy RSA</string>
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
@@ -44,7 +44,7 @@
 		<key>positionOfDivider</key>
 		<real>421</real>
 		<key>savedFrame</key>
-		<string>3533 578 950 672 2560 0 2560 1417 </string>
+		<string>309 146 950 672 0 0 2560 1417 </string>
 		<key>selectedTab</key>
 		<string>result</string>
 	</dict>

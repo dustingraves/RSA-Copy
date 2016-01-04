@@ -2,6 +2,8 @@
 Copies your secure pin and generated token to the clipboard
 
 ## Prerequisites
+It is assumed that you have already setup RSA SecurID and Imported your token.
+
 Add your pin to your apple keychain:
 
 1. Open "Applications>Utilities>Keychain Access"
